@@ -1,0 +1,24 @@
+#dado {
+  margin:auto;
+  border: solid;
+  width: 90px;
+  height: 90px;
+  text-align: center;
+  font-size: 50px;
+  background-color:SkyBlue;
+  font-family: 'Poiret One', cursive;
+}
+
+#boton {
+  margin-top: 10px;
+}
+
+#contenedor {
+   text-align:center;
+
+}
+header{
+  font-size:70px;
+  text-align:center;
+  font-family: 'Lato', sans-serif;
+}
